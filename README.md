@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Kunbo Ding
+### Hi there 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=KB-Ding&label=Profile%20views&color=0e75b6&style=flat)
 
